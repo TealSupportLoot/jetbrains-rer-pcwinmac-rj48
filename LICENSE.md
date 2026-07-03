@@ -1,4 +1,4 @@
-# 
+# Instantáneo JetBrains Rider herramientas para Mac OS | Oficial JetBrains Rider herramientas para PC Windows. Con registros de contenedores y constructor de imágenes — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
